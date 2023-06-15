@@ -1,5 +1,5 @@
 ### Hi there 
-<a href="https://minesh-tandel.onrender.com"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
+<a href="https://minesh.vercel.app/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
 This is the place where I store my work
 
 - 🔭 &nbsp;I’m currently working as a a **FULL STACK DEVELOPER** intern in DRITT Solutions Inc Montreal
