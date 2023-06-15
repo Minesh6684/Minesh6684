@@ -2,18 +2,18 @@
 <a href="https://minesh-tandel.onrender.com"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
 This is the place where I store my work
 
-- 🔭 &nbsp;I’m currently looking for an internship as a **FULL STACK DEVELOPER**
+- 🔭 &nbsp;I’m currently working as a a **FULL STACK DEVELOPER** intern in DRITT Solutions Inc Montreal
 - 🌱 &nbsp;I’m interested in learning Three js
 - 💬 &nbsp;We can discuss about Javascript, Python, React, Express, Flask, Node JS, Redux, MongoDB and MS SQL Server
-- 👨‍💻 &nbsp;Read more about my projects at [MINESH TANDEL](https://react-portfolio-minesh6684.vercel.app/)
+- 👨‍💻 &nbsp;Read more about my projects at [MINESH TANDEL](https://minesh.vercel.app/)
 
 
 📕 &nbsp;**Some Things I've built**
 <!-- BLOG-POST-LIST:START -->
-- [FeedEveryone](https://feedeveryone.onrender.com/login)
+- [HireIn](https://hire-in.vercel.app/)
+- [FeedEveryone](https://feedeveryone.vercel.app/)
 - [FishOn](https://fishon.vercel.app/)
-- [bookArena](https://bookarena.onrender.com)
-- [Tic Tac Toe](https://tic-tac-toe-minesh6684.vercel.app/)
+- [bookArena](http://minesht.pythonanywhere.com/)
 <!-- BLOG-POST-LIST:END -->
 
 🔗 &nbsp;**Connect with me**
